@@ -2,47 +2,238 @@
 
 ## 基本情報
 
-|key|value|
-|---|---|
-|氏名||
-|生年月日||
-|Twitter||
-|Qiita||
-|note||
-|Zenn||
-|SpeakerDeck||
+| key      | value                    |
+| -------- | ------------------------ |
+| 氏名     | 青木 隼人（Aoki Hayato） |
+| 生年月日 | 1988/06/04               |
+| 居住地   | 埼玉県                   |
 
 ---
 
-## 保有スキル
 
-- 
+## 各種アカウント
+<p>
+  <a href="https://github.com/captain-blue210" target="_blank"
+    ><img
+      alt="Github"
+      src="https://img.shields.io/badge/captain--blue210-%23181717.svg?style=flat-square&logo=github&logoColor=white"
+  /></a>
+  <a href="https://twitter.com/captain_blue210" target="_blank"
+    ><img
+      alt="Twitter"
+      src="https://img.shields.io/badge/@captain__blue210-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white"
+  /></a>
+  <a href="https://zenn.dev/captain_blue" target="_blank"
+    ><img
+      alt="Zenn"
+      src="https://img.shields.io/badge/@captain__blue210-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white"
+  /></a>
+  <a href="https://qiita.com/Captain_Blue" target="_blank"
+    ><img
+      alt="Qiita"
+      src="https://img.shields.io/badge/@Captain_Blue-%2355c500.svg?style=flat-square&logo=qiita&logoColor=white"
+  /></a>
+</p>
 
+
+---
+
+## スキル
+
+- Java/SpringBoot を使った Web アプリケーション開発・保守
+- JavaScript + Nuxt.js を使ったフロントエンド開発・保守
+- レガシーコードへのテスト整備主導
+- チームへのモブプログラミング導入
+- 心理的安全性を確保しつつ、個々人に合わせた教育の実施
+- Flutter を使ったモバイルアプリケーション開発
+- 英語を使用してのコミュニケーション、開発経験
 
 ---
 
 ## 技術スタック
 
 ### 言語
+<p>
+  <img
+    alt="Java"
+    src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=java&logoColor=white"
+  />
+  <img
+    alt="JavaScript"
+    src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white"
+  />
+  <img
+    alt="TypeScript"
+    src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"
+  />
+  <img
+    alt="Dart"
+    src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"
+  />
+  <img
+    alt="Go"
+    src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white"
+  />
+  <img
+    alt="Python"
+    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+  />
+</p>
 
-- 
-
-### フレームワーク・その他
-
-- 
+### フレームワーク等
+<p>
+  <img
+    alt="Spring Boot"
+    src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white"
+  />
+  <img
+    alt="Nuxt.js"
+    src="https://img.shields.io/badge/Nuxt.js-00C58E.svg?style=flat-square&logo=nuxtdotjs&logoColor=white"
+  />
+  <img
+    alt="Flutter"
+    src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=flutter&logoColor=white"
+  />
+  <img
+    alt="Firebase"
+    src="https://img.shields.io/badge/Firebase-ffca28.svg?style=flat-square&logo=firebase&logoColor=white"
+  />
+  <img
+    alt="React"
+    src="https://img.shields.io/badge/React-45b8d8.svg?style=flat-square&logo=react&logoColor=white"
+  />
+  <img
+    alt="Docker"
+    src="https://img.shields.io/badge/Docker-2CA5E0.svg?style=flat-square&logo=docker&logoColor=white"
+  />
+  <img
+    alt="React"
+    src="https://img.shields.io/badge/kubernetes-326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"
+  />
+</p>
 
 ---
 
-## 職務経歴詳細
+## 職務経歴
 
-### A株式会社（2020/04〜現在）
+### 楽天グループ株式会社（2021/01~現在）
 
-- 
+#### 新規サービス開発
 
-### B株式会社（2015/04〜2020/03）
+- **プロジェクト規模**
+  - メンバー数：13 名
+- **担当業務**
+  - 開発、テスト、リリース、業務改善
+- **業務概要**
+  - Java/SpringBoot での バックエンド開発
+  - Nuxt.js でのフロントエンド開発
+  - 既存ライブラリのアップデート
+  - 各環境の構築
+  - 自動テスト整備の提案と主導
+  - モブプログラミング導入の提案と主導
 
-- 
+### 株式会社コマースニジュウイチ（2016/04〜2021/01）
+
+#### 大手アパレル EC サイト開発・保守
+
+- **プロジェクト規模**
+  - メンバー数：6 名
+- **担当業務**
+  - 見積もり、開発、テスト、リリース、保守
+- **業務概要**
+  - 追加開発案件にて、フロントデザイン当て込み・API の開発を担当
+  - 保守として軽微改修や DB メンテナンス、緊急対応などを担当
+  - リリース作業全般の管理および実施を担当
+
+#### 大手航空会社 EC サイト開発・保守
+
+- **プロジェクト規模**
+  - メンバー数：4 名
+- **担当業務**
+  - 見積もり、設計、開発、テスト、リリース、保守
+- **業務概要**
+  - 消費税増税・軽減税率対応
+  - クーポン機能追加対応
+  - 保守として軽微改修や DB メンテナンス、緊急対応等
+  - リリース作業全般の管理および実施
+
+#### 学生向け Microsoft オフィスのライセンス販売 EC サイト開発・保守
+
+- **プロジェクト規模**
+  - メンバー数：4 名
+- **担当業務**
+  - 設計、開発、テスト、リリース、保守
+- **業務概要**
+  - 注文一括登録バッチ対応
+  - 会員一括登録バッチ対応
+  - 保守として軽微改修や DB メンテナンス、緊急対応等
+  - リリース作業全般の管理および実施
+
+#### 大手玩具・ベビー用品販売 EC サイト開発・保守
+
+- **プロジェクト規模**
+  - メンバー数：10 名
+- **担当業務**
+  - 要件定義、見積もり、設計、開発、テスト、リリース、保守
+- **業務概要**
+  - 会員情報移行バッチ開発
+  - 天気情報 API を用いたトップ画面の一部表示切り替え処理
+  - レスポンシブデザイン対応にてデザイン当てこみ全般を担当
+  - 保守として軽微改修や DB メンテナンス、緊急対応等
+  - リリース作業全般の管理および実施を担当
+
+#### 新人研修プロジェクト 不定期（通常プロジェクト兼務）
+
+- **プロジェクト規模**
+  - メンバー数：10 名
+- **担当業務**
+  - 製品に関する座学の実施の担当
+  - ソースコードレビューの担当
+  - 質問対応を担当
+  - 実習用サンプルソースの作成を担当
+  - 研修関連ドキュメントの整備を担当
+- **業務概要**
+  - 製品の最新バージョンに合わせた新人研修の資料作成
+  - 研修中の質問などはドキュメントとしてまとめ共有し、研修担当の負担を軽減
+  - 新卒の方が質問の仕方に習熟できるように独自の質問テンプレート作成と使い方を指導
 
 ## 業務外活動
 
-- 
+### 個人開発
+
+- **いててのすけ**
+  - 概要 : いててのすけは、身内が病気を記録しやすいように作成した Flutter アプリ。痛みの強さ、服用した薬、痛む部位、その画像を記録・閲覧が可能
+  - 技術 : Flutter, Firebase
+  - https://github.com/captain-blue210/itete_no_suke_flutter
+- **LINE ゴミ出し通知くん**
+  - 概要 : 忘れがちなゴミ出しの日を LINE に通知してくれるシステムとして作成
+  - 技術 : Python, AWS Lambda
+- **genote**
+  - 概要 : 自分のふりかえりをアシストするための CLI ツール
+  - 技術 : Golang
+  - https://github.com/captain-blue210/genote
+
+### 技術記事投稿
+
+- **Zenn**
+  - 2021/12 現在 : 46 記事 422 Likes
+  - https://qiita.com/Captain_Blue
+- **Qiita**
+  - 2021/12 現在 : 16 記事 154 contributions
+  - https://qiita.com/Captain_Blue
+  - ※ 現在 Zenn に移行し、更新停止中
+- **note**
+  - 2021/12 現在 : 18 記事 91 スキ
+  - https://note.com/captain_blue
+
+## 興味関心
+
+- これまで EC に特化したキャリアだったため、これからは EC 以外の分野に挑戦したいと考えています
+  - 現在は、主に教育やヘルスケア分野に興味があります
+  - ただし、面白そうであればこの限りではありません
+- 短期間で素早く改善・価値検証を繰り返せるアジャイル開発の経験を積んでいきたいです
+- 新規開発や PoC といった 0 → 1 の開発に携わってみたいと思っています
+
+## 希望条件
+- リモート可能（出社は週 2〜3 回）
+- その他条件は応相談
