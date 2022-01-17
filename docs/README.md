@@ -216,8 +216,8 @@
 ### 技術記事投稿
 
 - **Zenn**
-  - 2021/12 現在 : 46 記事 422 Likes
-  - https://qiita.com/Captain_Blue
+  - 2021/12 現在 : 51 記事 466 Likes
+  - https://zenn.dev/captain_blue
 - **Qiita**
   - 2021/12 現在 : 16 記事 154 contributions
   - https://qiita.com/Captain_Blue
