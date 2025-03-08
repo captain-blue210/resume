@@ -35,18 +35,16 @@
   /></a>
 </p>
 
-
 ---
 
 ## スキル
 
 - Java/SpringBoot を使った Web アプリケーション開発・保守
-- JavaScript + Nuxt.js を使ったフロントエンド開発・保守
+- JavaScript/TypeScript + Nuxt.js を使ったフロントエンド開発・保守
 - レガシーコードへのテスト整備主導
-- チームへのモブプログラミング導入
 - 心理的安全性を確保しつつ、個々人に合わせた教育の実施
-- Flutter を使ったモバイルアプリケーション開発
-- 英語を使用してのコミュニケーション、開発経験
+- 多国籍環境での英語によるコミュニケーション・開発経験
+- AI/LLMを活用した個人開発
 
 ---
 
@@ -67,14 +65,6 @@
     src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"
   />
   <img
-    alt="Dart"
-    src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white"
-  />
-  <img
-    alt="Go"
-    src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white"
-  />
-  <img
     alt="Python"
     src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
   />
@@ -91,24 +81,28 @@
     src="https://img.shields.io/badge/Nuxt.js-00C58E.svg?style=flat-square&logo=nuxtdotjs&logoColor=white"
   />
   <img
-    alt="Flutter"
-    src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=flutter&logoColor=white"
-  />
-  <img
-    alt="Firebase"
-    src="https://img.shields.io/badge/Firebase-ffca28.svg?style=flat-square&logo=firebase&logoColor=white"
-  />
-  <img
-    alt="React"
-    src="https://img.shields.io/badge/React-45b8d8.svg?style=flat-square&logo=react&logoColor=white"
+    alt="Next.js"
+    src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white"
   />
   <img
     alt="Docker"
     src="https://img.shields.io/badge/Docker-2CA5E0.svg?style=flat-square&logo=docker&logoColor=white"
   />
   <img
-    alt="React"
+    alt="Kubernetes"
     src="https://img.shields.io/badge/kubernetes-326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"
+  />
+  <img
+    alt="GCP"
+    src="https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"
+  />
+  <img
+    alt="AWS"
+    src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white"
+  />
+  <img
+    alt="LINE"
+    src="https://img.shields.io/badge/LINE-00C300.svg?style=flat-square&logo=line&logoColor=white"
   />
 </p>
 
@@ -130,11 +124,13 @@
   - 既存ライブラリのアップデート
   - 各環境の構築
   - 自動テスト整備の提案と主導
-  - モブプログラミング導入の提案と主導
+  - 多国籍チームでの英語によるコミュニケーション
 - **業務詳細**
 
 全国規模の新規開発プロジェクトに参画。
 バックエンドからフロントエンド、インフラまわりまで一気通貫でタスクを担当し、Nuxt.js 未経験メンバーのヘルプも担当しました。また、教育が得意なことを活かし、初年度から新卒研修も一部担当しています。
+
+国際的な開発環境で、日本語が使えない同僚とも英語でコミュニケーションを取りながら開発を進めました。
 
 プロジェクトでは、テストが手動かつ観点もメンバーによって様々だったこともあり、リグレッションによるバグが多く下流工程で発生していました。この問題に対処するため、テスト改善プロジェクトを提案・主導。
 
@@ -232,37 +228,35 @@
 
 ### 個人開発
 
-- **いててのすけ**
-  - 概要 : いててのすけは、身内が病気を記録しやすいように作成した Flutter アプリ。痛みの強さ、服用した薬、痛む部位、その画像を記録・閲覧が可能
-  - 技術 : Flutter, Firebase
-  - https://github.com/captain-blue210/itete_no_suke_flutter
+- **英文多読支援GPT**
+  - 概要: OpenAI GPTを活用した言語学習ツール。英文読解の学習効率を高めるためのアシスタント
+  - 技術: OpenAI API, GPT
+
 - **LINE ゴミ出し通知くん**
-  - 概要 : 忘れがちなゴミ出しの日を LINE に通知してくれるシステムとして作成
-  - 技術 : Python, AWS Lambda
+  - 概要: 忘れがちなゴミ出しの日を LINE に通知してくれるシステム
+  - 技術: GCP Cloud Functions, LINE Messaging API
+
 - **genote**
-  - 概要 : 自分のふりかえりをアシストするための CLI ツール
-  - 技術 : Golang
+  - 概要: 自分のふりかえりをアシストするための CLI ツール
+  - 技術: Golang
   - https://github.com/captain-blue210/genote
 
 ### 技術記事投稿
 
 - **Zenn**
-  - 2021/12 現在 : 51 記事 466 Likes
   - https://zenn.dev/captain_blue
 - **Qiita**
-  - 2021/12 現在 : 16 記事 154 contributions
   - https://qiita.com/Captain_Blue
   - ※ 現在 Zenn に移行し、更新停止中
 - **note**
-  - 2021/12 現在 : 18 記事 91 スキ
   - https://note.com/captain_blue
 
 ## 興味関心
 
 これまで EC に特化したキャリアだったため、これからは EC 以外の分野に挑戦したいと考えています。
-現在は、主に教育やヘルスケア分野に興味があります。
+現在は、主に教育やヘルスケア、DX関連分野に興味があります。
 
-なぜ教育に興味があるのかというと、2 つの理由があります。
+### 教育分野への関心
 
 - 勉強が好きで、学習方法をアップデートしていくのに強い関心がある
 - 教育格差への問題意識
@@ -271,14 +265,27 @@
 
 加えて、現在の社会では親の資本格差がそのまま子供の教育格差に反映されているという現状があります。このような問題の解決に技術を用いて挑戦してみたいと考えています。
 
-ヘルスケア分野にも興味がありますが、こちらは身の回りに医療関係者が多かったり、妻が持病の関係で通院する機会が多いためです。
+### ヘルスケア分野への関心
+
+身の回りに医療関係者が多かったり、妻が持病の関係で通院する機会が多いためです。
 医療機関で働く方たちや病院に通う人の話を聞くと、その大変さに驚きます。IT 技術を使って大変さを減らしたりよりよくすることに貢献したいと思っています。
 
+### DX関連分野への関心
 
-### その他
-- 短期間で素早く改善・価値検証を繰り返せるアジャイル開発の経験を積んでいきたいです
-- 新規開発や PoC といった 0 → 1 の開発に携わってみたいです
+既存産業のデジタル変革や業務効率化に技術を活用することに興味があります。自分のスキルセットを活かして、様々な業界の課題解決に貢献できると考えています。
+
+## キャリア目標・スキルアップ計画
+
+- React/Next.jsのスキル向上
+- GCPの実務経験を積む
+- マネジメントスキルの強化（エンジニアリングマネージャーとしてのキャリア検討）
+- 技術コンサルティングスキルの獲得
 
 ## 希望条件
-- リモート可能（出社は週 2〜3 回）
-- その他条件は応相談
+- 希望職種: バックエンドエンジニア、エンジニアリングマネージャー、技術コンサルタント
+- 給与: 現在の給与+50〜100万円（現状維持も検討可）
+- リモート可能（会社が近ければ週3〜4回出社も可能）
+- 教育・ヘルスケア・DX分野などEC以外の新たな領域での仕事
+- 心理的安全性が確保された環境
+- 技術的なチャレンジや成長機会がある環境
+- ワークライフバランスが取れる環境
