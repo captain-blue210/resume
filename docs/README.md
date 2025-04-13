@@ -1,41 +1,8 @@
 # 職務経歴書
 
-## 基本情報
+## 職務要約
 
-| key      | value                    |
-| -------- | ------------------------ |
-| 氏名     | 青木 隼人（Aoki Hayato） |
-| 生年月日 | 1988/06/04               |
-| 居住地   | 埼玉県                   |
-
----
-
-
-## 各種アカウント
-<p>
-  <a href="https://github.com/captain-blue210" target="_blank"
-    ><img
-      alt="Github"
-      src="https://img.shields.io/badge/captain--blue210-%23181717.svg?style=flat-square&logo=github&logoColor=white"
-  /></a>
-  <a href="https://twitter.com/captain_blue210" target="_blank"
-    ><img
-      alt="Twitter"
-      src="https://img.shields.io/badge/@captain__blue210-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white"
-  /></a>
-  <a href="https://zenn.dev/captain_blue" target="_blank"
-    ><img
-      alt="Zenn"
-      src="https://img.shields.io/badge/@captain__blue210-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white"
-  /></a>
-  <a href="https://qiita.com/Captain_Blue" target="_blank"
-    ><img
-      alt="Qiita"
-      src="https://img.shields.io/badge/@Captain_Blue-%2355c500.svg?style=flat-square&logo=qiita&logoColor=white"
-  /></a>
-</p>
-
----
+9年間のシステム開発経験を持つバックエンド/フロントエンドエンジニア。Java/SpringBoot、JavaScript/TypeScript+Nuxt.jsを用いたWebアプリケーション開発に精通。EC分野で5年間の実務経験を積んだ後、現在は楽天にて多国籍チームにおける新規サービス開発に従事。テスト自動化や品質改善プロセスの提案・導入を主導し、チーム全体の開発効率と品質向上に貢献。英語でのコミュニケーションスキルを活かし、国際的な開発環境でも活躍。AI/LLMを活用した個人開発や技術記事執筆も行い、継続的な技術研鑽に取り組んでいる。
 
 ## スキル
 
@@ -45,8 +12,6 @@
 - 心理的安全性を確保しつつ、個々人に合わせた教育の実施
 - 多国籍環境での英語によるコミュニケーション・開発経験
 - AI/LLMを活用した個人開発
-
----
 
 ## 技術スタック
 
@@ -65,6 +30,10 @@
     src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white"
   />
   <img
+    alt="Go"
+    src="https://img.shields.io/badge/Go-00ADD8.svg?style=flat-square&logo=go&logoColor=white"
+  />
+  <img
     alt="Python"
     src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
   />
@@ -77,12 +46,20 @@
     src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white"
   />
   <img
+    alt="Vue.js"
+    src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white"
+  />
+  <img
     alt="Nuxt.js"
     src="https://img.shields.io/badge/Nuxt.js-00C58E.svg?style=flat-square&logo=nuxtdotjs&logoColor=white"
   />
   <img
+    alt="React"
+    src="https://img.shields.io/badge/React-45b8d8.svg?style=flat-square&logo=react&logoColor=white"
+  />
+  <img
     alt="Next.js"
-    src="https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white"
+    src="https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white"
   />
   <img
     alt="Docker"
@@ -97,55 +74,43 @@
     src="https://img.shields.io/badge/GCP-4285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"
   />
   <img
-    alt="AWS"
-    src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white"
-  />
-  <img
     alt="LINE"
     src="https://img.shields.io/badge/LINE-00C300.svg?style=flat-square&logo=line&logoColor=white"
   />
 </p>
 
----
-
 ## 職務経歴
 
 ### 楽天グループ株式会社（2021/02~現在）
 
-#### 新規サービス開発
+#### 全国規模ECサービス（ネットスーパー）開発プロジェクト
 
-- **プロジェクト規模**
-  - メンバー数：13 名
-- **担当業務**
-  - 開発、テスト、リリース、業務改善
-- **業務概要**
-  - Java/SpringBoot での バックエンド開発
-  - Nuxt.js でのフロントエンド開発
-  - 既存ライブラリのアップデート
-  - 各環境の構築
-  - 自動テスト整備の提案と主導
-  - 多国籍チームでの英語によるコミュニケーション
-- **業務詳細**
+##### 使用技術
+Java, SpringBoot, JavaScript, TypeScript, Nuxt.js, Docker, Kubernetes, JUnit
 
-全国規模の新規開発プロジェクトに参画。
-バックエンドからフロントエンド、インフラまわりまで一気通貫でタスクを担当し、Nuxt.js 未経験メンバーのヘルプも担当しました。また、教育が得意なことを活かし、初年度から新卒研修も一部担当しています。
+##### 役割・主業務
+バックエンドからフロントエンドまでの一気通貫の開発を担当。多国籍チームにおいて、日本語が使えない同僚とも英語でコミュニケーションを取りながら開発を推進した。IT実施時には、日本語が分からないメンバー向けに定期的なミーティングを設け、英語での説明を行い、チーム全体の連携を強化。
 
-国際的な開発環境で、日本語が使えない同僚とも英語でコミュニケーションを取りながら開発を進めました。
+テストが手動かつメンバーによって観点が異なるという課題に対し、テスト改善プロジェクトを提案・主導。現在進行中の取り組みとして以下を実施：
+- 全体の目標およびスケジュールを作成し、マネージャーやメンバーと合意形成
+- SonarQubeを自社のCaaSにデプロイし、テストカバレッジを計測できる環境を構築中
+- 現状のカバレッジを数値で可視化し、チームとして目指すべきカバレッジ目標を設定
+- 半期ごとのサブ目標を設定し、段階的な改善計画を立案
+- QAチームによるバグチケット分析結果をもとに、今後優先度の高い部分から自動テストの整備を進める予定
 
-プロジェクトでは、テストが手動かつ観点もメンバーによって様々だったこともあり、リグレッションによるバグが多く下流工程で発生していました。この問題に対処するため、テスト改善プロジェクトを提案・主導。
+開発プロセスの改善として、ドキュメント整備にも取り組む：
+- 要件定義から統合テスト（IT）までのドキュメントフォーマットを再定義
+- 要件漏れを防止するためのチェックリストやテンプレートを考案・導入
+- 新しいドキュメント体系のチームへの定着活動とフォローアップを担当
 
-まず、全体の目標およびスケジュールを作成し、マネージャーやメンバーと合意をとりました。
-次にこれまで発生したバグのチケットを分析し、バグが多く発生している箇所と、どのようなテストをしていればよかったのかを明らかにしました。
-こうして突き止めた場所からテストを整備しました。
+また、教育の経験を活かし、新卒研修の一部も担当した。
 
-また、隔週でテストに特化した MTG を開いています。そこでは直近で起きたバグを取り上げメンバーで「どうすればそのバグを防げたか？」を議論したり、テストを書く際にでてきた不明点や疑問点を解消しメンバーのテストスキルを高める場としています。
+##### 成果
+テスト改善プロジェクトの初期段階として、チーム内でテスト整備の意義とメリットについての共通認識が形成された。レビュー依頼時にテストケースとその結果を記載するルールが確立され、コードレビューの質が向上した。SonarQubeの導入により、客観的な指標でテストカバレッジを可視化する基盤が整いつつある。
 
-テスト改善プロジェクトについては、現在も進行中でまだまだテストのカバー率は高くありません。現時点の成果としては以下になります。
+ドキュメント改善の取り組みにより、要件定義書の品質が向上し、開発フェーズでの認識齟齬や手戻りが減少。特に要件漏れが原因で発生していた追加開発や仕様変更の頻度が低減した。また、標準化されたフォーマットにより、チーム内での情報共有が効率化され、新メンバーの参画時の立ち上がりも迅速になった。
 
-- テストを整備することで得られる具体的なメリットについてチーム内で認識をあわせることができた
-- レビュー依頼事にテストケースとその結果を記載するルールができた
-  - 現時点では手動テストと結果のキャプチャが主だが、少しずつ自動テストで書けるようにしていきたい
-- バグについて自分の担当以外の内容も知ることができ、メンバーのテスト精度が向上した
+英語でのコミュニケーション能力については、日本語を話せないチームメンバーとの橋渡し役として機能し、国際的な開発チームの連携強化に貢献。マネージャー陣からも「英語がかなり話せるようになった」と評価され、IT実施時の英語での説明ミーティングが効果的だったとの評価を得た。
 
 ### 株式会社コマースニジュウイチ（2016/04〜2021/01）
 
